@@ -1,0 +1,3 @@
+SÄÄNNÖT TEKSTITIEDOSTO
+
+Note: At present, using .val() on textarea elements strips carriage return characters from the browser-reported value. When this value is sent to the server via XHR however, carriage returns are preserved (or added by browsers which do not include them in the raw value). A workaround for this issue can be achieved using a valHook as follows:

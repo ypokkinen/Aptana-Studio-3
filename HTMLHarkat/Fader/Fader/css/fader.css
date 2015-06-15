@@ -1,0 +1,3 @@
+#image_cycler{position:relative;width:300px;height:200px;float: left; margin:10px}
+#image_cycler img{position:absolute;z-index:1}
+#image_cycler img.active{z-index:3}

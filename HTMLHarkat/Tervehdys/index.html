@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<p>Klikkaa Tervehdys nappia </p>
+
+<button onclick="myFunction()">Tervehdys</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction()
+{
+var x;
+
+var name=prompt("Anna nimesi");
+
+if (name!=null)
+  {
+  x="Terve " + name + "! Mit� sinulle kuuluu t�n��n?";
+  document.getElementById("demo").innerHTML=x;
+  }
+}
+</script>

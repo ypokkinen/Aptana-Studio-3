@@ -1,0 +1,36 @@
+body
+{
+background-color: blue;
+}
+h1,h2,h3,h4
+{
+font-family:"Courier New", Courier, monospace;
+color:orange;
+text-align:center;
+}
+p
+{
+font-family:"Courier New", Courier, monospace; font-size:20px;
+} 
+.laatikko
+{
+background-color: red;
+width:350px;
+padding:10px;
+border:5px solid gray;
+margin:0px;
+position:fixed;
+top:0px;
+}
+
+.vp
+{
+background-color: yellow;
+width:600px;
+padding:10px;
+border:5px solid gray;
+margin:0px;
+position:fixed;
+top:0px;
+left:385px;
+}
