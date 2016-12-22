@@ -1,5 +1,5 @@
 # Aptana-Studio-3
-I upload here my Aptana-Studio 3 Workplace.
+I uploaded here my Aptana-Studio 3 Workplace.
 
 
 
